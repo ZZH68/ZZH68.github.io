@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 ,无线翡翠
+http://61.147.122.14/flv.live.xylive.tv/live/00fc.flv
+#EXTINF:-1 ,无线新闻
+http://61.147.122.15/flv.live.xylive.tv/live/00wxxw.flv
+#EXTINF:-1 ,凤凰香港
+http://stream.mtime.info/live/fhwsxg/fhwsxg.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",凤凰香港
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",凤凰香港
+http://live.fengshows.com/live/PHK_500k/index.m3u8
+#EXTINF:-1 ,有線新聞台
+https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK" tvg-logo="https://od.lk/s/Nl8xNzY2NjE3NThf/RTHK.png" group-title="电台",香港电台第一台
+https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK" tvg-logo="https://od.lk/s/Nl8xNzY2NjE3NThf/RTHK.png" group-title="电台",香港电台第一台
+https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK" tvg-logo="https://od.lk/s/Nl8xNzY2NjE3NThf/RTHK.png" group-title="电台",香港电台第二台
+https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK" tvg-logo="https://od.lk/s/Nl8xNzY2NjE3NThf/RTHK.png" group-title="电台",香港电台第三台
+https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK" tvg-logo="https://od.lk/s/Nl8xNzY2NjE3NThf/RTHK.png" group-title="电台",香港电台第四台
+https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK" tvg-logo="https://od.lk/s/Nl8xNzY2NjE3NThf/RTHK.png" group-title="电台",香港电台第五台
+https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK" tvg-logo="https://od.lk/s/Nl8xNzY2NjE3NThf/RTHK.png" group-title="电台",香港电台第六台
+http://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK" tvg-logo="https://od.lk/s/Nl8xNzY2NjE3NThf/RTHK.png" group-title="电台",香港D100
+http://68.235.39.19:8000/Channel1-128MP3
+#EXTINF:-1 tvg-id="" tvg-name="RTHK" tvg-logo="https://od.lk/s/Nl8xNzY2NjE3NThf/RTHK.png" group-title="电台",加州星岛
+http://50.7.71.27:9731/;?icy=http
+#EXTINF:-1 tvg-id="" tvg-name="RTHK" tvg-logo="https://od.lk/s/Nl8xNzY2NjE3NThf/RTHK.png" group-title="电台",加拿大A1
+http://s2.voscast.com:9530/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电台",广东股市
+http://live.xmcdn.com/live/250/64.m3u8
+#EXTINF:-1 ,广东新闻
+http://nclive.grtn.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="电视",南方卫视
+http://nclive.grtn.cn/tvs2/sd/live.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广东卫视高清
+http://39.134.52.173/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="电视",广东珠江
+http://nclive.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="电视",CCTV1
+http://61.147.122.14/flv.live.xylive.tv/live/youxianxinwen.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿爷厨房",第1集
+https://mei.huazuida.com/20200106/21044_cf618058/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿爷厨房",第2集
+https://mei.huazuida.com/20200106/21043_0ddd12e0/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿爷厨房",第3集
+https://mei.huazuida.com/20200106/21042_9c20b325/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿爷厨房",第4集
+https://mei.huazuida.com/20200106/21041_8865fd8e/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿爷厨房",第5集
+https://mei.huazuida.com/20200106/21040_d94bc18b/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿爷厨房",第6集
+https://mei.huazuida.com/20200106/21039_79479c5a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿爷厨房",第7集
+https://mei.huazuida.com/20200106/21038_be5aea4a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿爷厨房",第8集
+https://mei.huazuida.com/20200106/21037_6c26f7be/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿爷厨房",第9集
+https://mei.huazuida.com/20200106/21036_49a2d6ce/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="阿爷厨房",第10集
+https://mei.huazuida.com/20200106/21035_48be9b73/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",鹿鼎记
+https://sina.com-h-sina.com/20181121/21927_bc767089/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",鹿鼎记2
+https://sina.com-h-sina.com/20181121/21928_c99faea0/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",97家有喜事
+https://youku.cdn6-okzy.com/20191108/6622_a80213e8/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",赌侠
+https://youku.com-a-youku.com/20190805/15912_73615ba9/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",审死官
+https://youku.com-a-youku.com/20190623/7658_5d9aa593/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",九品芝麻官
+https://vip.okokbo.com/20171224/n5fdw3Hs/800kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",行运一条龙
+https://vip.okokbo.com/20180102/iGHxuVTi/800kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",整蛊专家
+https://v3.yongjiujiexi.com/20190427/soEsVTd7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",食神
+https://iqiyi.com-iqiyicdn.com/20191003/3326_d1de74b7/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",少林足球
+https://gaqoqingv.gqzyz.com/2018/06/06/lq8yjaSfeqdqXMb7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",最佳女婿
+https://youku.com-t-youku.com/20190416/14146_9b9f8e78/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",逃学威龙
+https://youku.com-youku.net/20180514/1970_ebfa2755/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",逃学威龙2
+https://youku.com-youku.net/20180514/1972_5daa8bf5/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",逃学威龙3
+https://youku.com-youku.net/20180514/1972_5daa8bf5/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="周星驰",唐伯虎点秋香
+https://youku.com-t-youku.com/20190501/16328_f40f84e7/1000k/hls/index.m3u8
